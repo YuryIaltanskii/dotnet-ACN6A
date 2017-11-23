@@ -1,0 +1,5 @@
+C:\NET_Projects_Iurii\Suma_todos_los_numeros\Suma_todos_los_numeros\bin\Debug\Suma_todos_los_numeros.exe.config
+C:\NET_Projects_Iurii\Suma_todos_los_numeros\Suma_todos_los_numeros\bin\Debug\Suma_todos_los_numeros.exe
+C:\NET_Projects_Iurii\Suma_todos_los_numeros\Suma_todos_los_numeros\bin\Debug\Suma_todos_los_numeros.pdb
+C:\NET_Projects_Iurii\Suma_todos_los_numeros\Suma_todos_los_numeros\obj\Debug\Suma_todos_los_numeros.exe
+C:\NET_Projects_Iurii\Suma_todos_los_numeros\Suma_todos_los_numeros\obj\Debug\Suma_todos_los_numeros.pdb

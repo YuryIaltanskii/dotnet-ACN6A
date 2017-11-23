@@ -1,0 +1,5 @@
+c:\users\alumno\documents\visual studio 2015\Projects\Dos_valores\Dos_valores\bin\Debug\Dos_valores.exe.config
+c:\users\alumno\documents\visual studio 2015\Projects\Dos_valores\Dos_valores\bin\Debug\Dos_valores.exe
+c:\users\alumno\documents\visual studio 2015\Projects\Dos_valores\Dos_valores\bin\Debug\Dos_valores.pdb
+c:\users\alumno\documents\visual studio 2015\Projects\Dos_valores\Dos_valores\obj\Debug\Dos_valores.exe
+c:\users\alumno\documents\visual studio 2015\Projects\Dos_valores\Dos_valores\obj\Debug\Dos_valores.pdb

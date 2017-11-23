@@ -1,0 +1,17 @@
+c:\users\alumno\documents\visual studio 2015\Projects\Nombre_edad\Nombre_edad\bin\Debug\Nombre_edad.exe.config
+C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Nombre_edad\Nombre_edad\bin\Debug\Nombre_edad.exe
+C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Nombre_edad\Nombre_edad\bin\Debug\Nombre_edad.pdb
+C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Nombre_edad\Nombre_edad\obj\Debug\Nombre_edad.exe
+C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Nombre_edad\Nombre_edad\obj\Debug\Nombre_edad.pdb
+C:\Users\iialtanskii\Desktop\3_Projects_First_Excercises\Nombre_edad\Nombre_edad\bin\Debug\Nombre_edad.exe.config
+C:\Users\iialtanskii\Desktop\3_Projects_First_Excercises\Nombre_edad\Nombre_edad\obj\Debug\Nombre_edad.exe
+C:\Users\iialtanskii\Desktop\3_Projects_First_Excercises\Nombre_edad\Nombre_edad\obj\Debug\Nombre_edad.pdb
+C:\Users\iialtanskii\Desktop\3_Projects_First_Excercises\Nombre_edad\Nombre_edad\bin\Debug\Nombre_edad.exe
+C:\Users\iialtanskii\Desktop\3_Projects_First_Excercises\Nombre_edad\Nombre_edad\bin\Debug\Nombre_edad.pdb
+C:\Users\iialtanskii\Desktop\3_Projects_First_Excercises\Nombre_edad\Nombre_edad\obj\Debug\Nombre_edad.csprojResolveAssemblyReference.cache
+C:\NET_Projects_Iurii\Nombre_edad\Nombre_edad\bin\Debug\Nombre_edad.exe.config
+C:\NET_Projects_Iurii\Nombre_edad\Nombre_edad\obj\Debug\Nombre_edad.exe
+C:\NET_Projects_Iurii\Nombre_edad\Nombre_edad\obj\Debug\Nombre_edad.pdb
+C:\NET_Projects_Iurii\Nombre_edad\Nombre_edad\bin\Debug\Nombre_edad.exe
+C:\NET_Projects_Iurii\Nombre_edad\Nombre_edad\bin\Debug\Nombre_edad.pdb
+C:\NET_Projects_Iurii\Nombre_edad\Nombre_edad\obj\Debug\Nombre_edad.csprojResolveAssemblyReference.cache
